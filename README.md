@@ -14,6 +14,8 @@
 ###
 
 <div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" height="30" alt="linux logo" />
+  <img width="12" />
   <img src="https://www.kali.org/images/kali-logo.svg" height="30" alt="kali linux logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
