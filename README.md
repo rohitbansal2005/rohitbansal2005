@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋! I'm Rohit Kumar Bansal <br> <br> I'm Information Technology student <br> I'm passionate about software development and solving real-world problems through technology. <br> 🚀 Let's connect and grow together!</h4>
+<h4 align="left">Hi 👋! I'm Rohit Kumar Bansal <br> I'm Information Technology student <br> I'm passionate about software development and solving real-world problems through technology. <br> 🚀 Let's connect and grow together!</h4>
 
 ###
 
