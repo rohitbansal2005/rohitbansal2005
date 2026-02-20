@@ -2,8 +2,6 @@
 <h3 align="center">A Full Stack Developer | Open Source Contributor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitbansal2005&label=Profile%20views&color=0e75b6&style=flat" alt="rohitbansal2005" /> </p>
-
-## Moving Logos [🔝](#--gifs-for-readme--)
   
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
@@ -30,7 +28,7 @@
 </div>
 <br><br>    
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitbansal2005" alt="rohitbansal2005" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitbansal2005" alt="rohitbansal2005" /></a> </p> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitbansal2005&show_icons=true&locale=en&layout=compact" alt="rohitbansal2005" /></p>
 
