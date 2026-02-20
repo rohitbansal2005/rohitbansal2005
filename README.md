@@ -37,3 +37,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitbansal2005&" alt="rohitbansal2005" /></p> 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
