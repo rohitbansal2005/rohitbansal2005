@@ -36,11 +36,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rohitbansal2005&theme=dark" alt="rohitbansal2005" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitbansal2005&show_icons=true&locale=en&theme=dark" alt="piyushgarg-dev" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbansal2005&layout=compact&theme=dark" alt="Top Languages" />
-  </div>
-
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitbansal2005&theme=dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rohitbansal2005&show_icons=true&theme=dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbansal2005&layout=compact&theme=dark" />
+</div>
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 
