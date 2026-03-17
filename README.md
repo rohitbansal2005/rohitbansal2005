@@ -40,6 +40,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=rohitbansal2005&show_icons=true&theme=dark" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbansal2005&layout=compact&theme=dark" />
 </div>
-![](./profile-3d-contrib/profile-green-animate.svg)
+
 
 
