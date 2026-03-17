@@ -36,8 +36,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitbansal2005&" alt="rohitbansal2005" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbansal2005&layout=compact" alt="Top Languages" />
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitbansal2005&" alt="rohitbansal2005" /> </div>
+  </div>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
