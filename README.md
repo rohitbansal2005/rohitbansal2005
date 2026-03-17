@@ -36,8 +36,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align="center">
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmy123222&layout=compact" alt="Top Languages" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Emmy123222&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbansal2005&layout=compact" alt="Top Languages" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=rohitbansal&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitbansal2005&" alt="rohitbansal2005" /></p> 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
