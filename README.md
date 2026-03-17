@@ -37,6 +37,7 @@
 
 <div align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rohitbansal2005&theme=dark" alt="rohitbansal2005" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitbansal2005&show_icons=true&locale=en&theme=dark" alt="piyushgarg-dev" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbansal2005&layout=compact&theme=dark" alt="Top Languages" />
   </div>
 
