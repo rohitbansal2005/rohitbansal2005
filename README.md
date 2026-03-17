@@ -36,9 +36,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitbansal2005&theme=dark" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rohitbansal2005&show_icons=true&theme=dark" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbansal2005&layout=compact&theme=dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rohitbansal2005&show_icons=true&theme=dark" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitbansal2005&theme=dark" />
 </div>
 
 
