@@ -41,7 +41,7 @@
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitbansal2005&theme=dark" />
 </div>
 
-<h2> 💰Support </h2>
+<h2> 💰Support me </h2>
 <a href="https://www.buymeacoffee.com/rkbansal23" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
