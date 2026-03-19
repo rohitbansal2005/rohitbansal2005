@@ -56,8 +56,8 @@
   <img src="https://img.shields.io/badge/Hacktoberfest-2025-B347FF?style=for-the-badge&logo=hacktoberfest&logoColor=white" alt="Hacktoberfest 2025"/>
   <br><br>
  <a href="https://holopin.io/@rohitbansal2005" target="_blank">
-  <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="120px" style="margin-right: 10px;" />
-  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="120px" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="150px" style="margin-right: 12px;" />
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="150px" />
 </a>
   <br><br>
   <img src="https://img.shields.io/badge/Open%20Source%20Contributor-B347FF?style=flat&logo=github&logoColor=white" alt="Open Source Contributor"/>
