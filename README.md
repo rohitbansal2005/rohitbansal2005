@@ -41,6 +41,15 @@
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitbansal2005&theme=dark" />
 </div>
 
+### 🏆 GitHub Achievements
+
+<div align="center" style="margin-top: 20px;">
+<a href="https://github.com/smirk-dev">
+ 
+  ![](https://github-trophies.vercel.app/?username=rohitbansal2005&theme=dark&no-frame=true&no-bg=true&margin-w=4&column=7&count_private=true)
+</a><br>
+    </div>
+
 <h2> 💰Support me </h2>
 <a href="https://www.buymeacoffee.com/rkbansal23" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
