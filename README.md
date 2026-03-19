@@ -50,6 +50,25 @@
 </a><br>
     </div>
 
+  ### 🎃 Hacktoberfest Achievements
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Hacktoberfest-2025-B347FF?style=for-the-badge&logo=hacktoberfest&logoColor=white" alt="Hacktoberfest 2025"/>
+  <br><br>
+
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgexzojs003nl404raeltx93" target="_blank">
+    <img src="https://www.holopin.io/hacktoberfest2025/userbadge/cmgexzojs003nl404raeltx93" width="200px" />
+  </a>
+
+  <a href="https://www.holopin.io/userbadge/cmh1msr1400a5lf04w488w8q5" target="_blank">
+    <img src="https://www.holopin.io/userbadge/cmh1msr1400a5lf04w488w8q5" width="200px" />
+  </a>
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-B347FF?style=flat&logo=github&logoColor=white" alt="Open Source Contributor"/>
+</div>
+
 <h2> 💰Support me </h2>
 <a href="https://www.buymeacoffee.com/rkbansal23" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
