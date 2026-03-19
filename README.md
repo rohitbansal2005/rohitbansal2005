@@ -44,29 +44,23 @@
 ### 🏆 GitHub Achievements
 
 <div align="center" style="margin-top: 20px;">
-<a href="https://github.com/smirk-dev">
+<a href="https://github.com/rohitbansal2005">
  
-  ![](https://github-trophies.vercel.app/?username=rohitbansal2005&theme=dark&no-frame=true&no-bg=true&margin-w=4&column=7&count_private=true)
+  ![](https://github-trophies.vercel.app/?username=rohitbansal2005&theme=monokai&no-frame=true&no-bg=true&margin-w=4&column=7&count_private=true)
 </a><br>
     </div>
 
-  ### 🎃 Hacktoberfest Achievements
+ ### 🎃 Hacktoberfest Achievements
 
 <div align="center">
   <img src="https://img.shields.io/badge/Hacktoberfest-2025-B347FF?style=for-the-badge&logo=hacktoberfest&logoColor=white" alt="Hacktoberfest 2025"/>
   <br><br>
-
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgexzojs003nl404raeltx93" target="_blank">
-    <img src="https://www.holopin.io/hacktoberfest2025/userbadge/cmgexzojs003nl404raeltx93" width="200px" />
+  <a href="https://holopin.io/@rohitbansal2005" target="_blank">
+    <img src="https://holopin.me/rohitbansal2005" alt="Holopin Badges" />
   </a>
-
-  <a href="https://www.holopin.io/userbadge/cmh1msr1400a5lf04w488w8q5" target="_blank">
-    <img src="https://www.holopin.io/userbadge/cmh1msr1400a5lf04w488w8q5" width="200px" />
-  </a>
-
   <br><br>
-
   <img src="https://img.shields.io/badge/Open%20Source%20Contributor-B347FF?style=flat&logo=github&logoColor=white" alt="Open Source Contributor"/>
+  <img src="https://img.shields.io/badge/Community%20Builder-B347FF?style=flat&logo=hacktoberfest&logoColor=white" alt="Community Builder"/>
 </div>
 
 <h2> 💰Support me </h2>
