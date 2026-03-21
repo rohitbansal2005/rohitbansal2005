@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar Bansal</h1>
 <h3 align="center">A Full Stack Developer | Open Source Contributor</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitbansal2005&label=Profile%20views&color=0e75b6&style=flat" alt="rohitbansal2005" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitbansal2005&label=Profile%20views&color=0e75b6&style=flat" alt="rohitbansal2005" /> </p> -->
   
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
